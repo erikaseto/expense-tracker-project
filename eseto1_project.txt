@@ -1,0 +1,7 @@
+Item, Quantity, Cost Each ($)
+Soap, 2, 3.99
+Tissues, 1, 4.99
+Vitamins, 1, 20.98
+Trash Bags, 1, 25
+Eggs (a dozen), 1, 10
+Cereal, 3, 7.98
